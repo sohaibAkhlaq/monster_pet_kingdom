@@ -74,7 +74,7 @@ git clone https://github.com/your-username/monster-pet-kingdom.git
 
 ## Gameplay Demo
 A short gameplay demonstration video is available here:
-https://github.com/sohaibAlhlaq/monster-pet-kingdom/blob/main/demo/gameplay.mp4
+https://github.com/sohaibAkhlaq/monster-pet-kingdom/blob/main/demo/gameplay.mp4
 
 
 ## Contributors
