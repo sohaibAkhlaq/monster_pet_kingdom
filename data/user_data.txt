@@ -1,0 +1,204 @@
+Username: zazin
+Diamonds: 500
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: sohaib
+Diamonds: 600
+Pet 0:          Dragon
+Pet 1:          Phoenix
+Pet 2:          Griffin
+Pet 3:          Unicorn
+Item 0: 6
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: haider
+Diamonds: 500
+Pet 0:  Dragon
+Pet 1:  Phoenix
+Pet 2:  Griffin
+Pet 3:  Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: ali
+Diamonds: 550
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: silli
+Diamonds: 400
+Pet 0:    Dragon
+Pet 1:    Phoenix
+Pet 2:    Griffin
+Pet 3:    Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 1
+----------------
+Username: halloween
+Diamonds: 900
+Pet 0:   Dragon
+Pet 1:   Phoenix
+Pet 2:   Griffin
+Pet 3:   Unicorn
+Item 0: 4
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: shaimna
+Diamonds: 600
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: shaiman
+Diamonds: 500
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: zain
+Diamonds: 3200
+Pet 0:                                                                   Dragon
+Pet 1:                                                                   Phoenix
+Pet 2:                                                                   Griffin
+Pet 3:                                                                   Unicorn
+Item 0: 5
+Item 1: 3
+Item 2: 2
+Item 3: 2
+Item 4: 6
+----------------
+Username: zian
+Diamonds: 550
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: jenifer
+Diamonds: 750
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: jennidfer
+Diamonds: 500
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: hasaam
+Diamonds: 1950
+Pet 0:                  Dragon
+Pet 1:                  Phoenix
+Pet 2:                  Griffin
+Pet 3:                  Unicorn
+Item 0: 3
+Item 1: 3
+Item 2: 0
+Item 3: 1
+Item 4: 0
+----------------
+Username: asaam
+Diamonds: 550
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: wsill
+Diamonds: 500
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: sili
+Diamonds: 700
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
+Username: ZAIN
+Diamonds: 650
+Pet 0: Dragon
+Pet 1: Phoenix
+Pet 2: Griffin
+Pet 3: Unicorn
+Item 0: 3
+Item 1: 2
+Item 2: 0
+Item 3: 0
+Item 4: 0
+----------------
