@@ -55,7 +55,7 @@ training, and competitive modes.
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/sohaibAkhlaq/monster-pet-kingdom.git
+git clone https://github.com/sohaibAkhlaq/monster_pet_kingdom.git
 2. Ensure SFML is installed and configured on your system.
 3. Compile the project with SFML linked properly.
 4. Run the generated executable to start the game.
